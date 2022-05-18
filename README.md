@@ -1,5 +1,7 @@
 # HelmDeploymentDemo
 Example deployment of a basic .net core API using HELM 3
+** Requires an install of Kubernetes - Docker Desktop can enable this by default in settings to give you an instance.
+** Requires HELM
 
 ## What is HELM
 
